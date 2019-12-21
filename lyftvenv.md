@@ -131,9 +131,6 @@ which further this cause and will hopefully take away something about these.
     - fetch latest version in background
     - notify user update is available
     - force update in case of security / etc. issues
-
-#### next steps (3 minutes)
-
 - "lyftvenv made me a better developer because it forced me to write self-
   contained unit tests"
 - better mocks / fakes in unit tests
