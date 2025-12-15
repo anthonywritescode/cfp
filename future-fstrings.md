@@ -19,10 +19,11 @@ added support for dictionary unpacking in python, and more!
 
 notes / outline: https://github.com/anthonywritescode/cfp/blob/main/future-fstrings.md
 
-project: https://github.com/asottile/future-fstrings
-project: https://github.com/asottile/dict-unpacking-at-home
+- project: https://github.com/asottile/future-fstrings
+- project: https://github.com/asottile/dict-unpacking-at-home
 
 previous presentations:
+
 - python now has dict unpacking? https://youtu.be/eqiM0xRmFJg
 - what is a `.pth` file? https://youtu.be/mzxQrgvuRFg
 - code samples: https://github.com/anthonywritescode/explains

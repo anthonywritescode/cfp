@@ -19,6 +19,7 @@ machine disassembly.
 notes / outline: https://github.com/anthonywritescode/cfp/blob/main/explaining-weird-things.md
 
 previous presentations (parts of these are combined into this talk):
+
 - university of michigan guest lecture: https://youtu.be/G2yPbg2fgQY
 - python is compiled? https://youtu.be/FPJdre3mbD4
 - weird python identity quirk https://youtu.be/w4GasVbjIbA
