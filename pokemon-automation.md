@@ -36,14 +36,15 @@ previous presentations: https://www.youtube.com/playlist?list=PLWBKAf81pmOYZoIyN
 
 ### the project (the rest of the time budget)
 
-- hardware setup (nintendo switch, simplest -- easiest to live demo)
-- software setup (basics of capturing the screen)
-- a few useful techniques (will narrow down / expand to fit time)
+- hardware setup (5 minutes)
+    - (nintendo switch, simplest -- easiest to live demo)
+    - software setup (basics of capturing the screen)
+- a few useful techniques (will narrow down / expand to fit time) (10 minutes)
     - thresholding (detecing "is something X colorish")
     - OCR (reading text on the screen)
     - "who's that pokemon?" (matching known sprite silhouettes)
     - k means
-- custom state management
+- custom state management (5 minutes)
     - originally 6-deep nested `while` => custom typesafe state machine
 
 ### further (~5 minutes)

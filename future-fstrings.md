@@ -37,11 +37,11 @@ previous presentations:
 
 ### the meat of the presentation (~25 minutes)
 
-- python 2 f-strings demo
-- basic explanation of encodings (utf-8 to turn bytes into text)
-- registering custom encodings in python
+- python 2 f-strings demo (~2 minutes)
+- basic explanation of encodings (utf-8 to turn bytes into text) (3 minutes)
+- registering custom encodings in python (1 minute)
 - ok registering custom encodings requires code -- how to automate it?
-- `.pth` files: special import system magic
-- packaging a `.pth` file
-- putting that together: a custom encoding which performs source manipulation!
+- `.pth` files: special import system magic (5 minutes)
+- packaging a `.pth` file (3 minutes)
+- putting that together: a custom encoding which performs source manipulation! (10 minutes)
     - parse / unparse token stream (`tokenize-rt`)

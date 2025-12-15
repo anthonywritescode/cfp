@@ -39,17 +39,17 @@ previous presentations (parts of these are combined into this talk):
 
 ### the meat of the presentation (the rest of the time budget)
 
-- python is compiled? (quick demo of `.pyc` files)
-- first step: tokenization
+- python is compiled? (quick demo of `.pyc` files) (~3 minutes)
+- first step: tokenization (~5 minutes)
     - show tokenization of file
     - `tokenize_rt` and additional "unimportant" tokens
     - weird: half-triple-quoted-strings
-- second step: abstract syntax tree
+- second step: abstract syntax tree (~5 minutes)
     - grammar of python transforms token stream into syntax tree
     - PEG grammar of python
     - weird: `False == False in [False]`
     - weird: `a == not b`
-- third step: some magic turns that into bytecode
+- third step: some magic turns that into bytecode (~12 minutes; can expand more)
     - demo of stack machine on simple `add` example
     - peephole optimizer
     - implicit return `None`
