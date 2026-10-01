@@ -1,0 +1,3 @@
+"""demonstrate lazily-evaluated annotations in 3.14+"""
+
+def f(x: 1 /0) -> None: ...

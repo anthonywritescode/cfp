@@ -18,6 +18,8 @@ previous presentations (parts of these are combined into this talk):
 - lazy imports: https://www.youtube.com/watch?v=xnZ90CYYF-0
 - backporting lazy imports: https://www.youtube.com/watch?v=mQY5UR78t9g
     - (probably not covered in the 30 minute version)
+- lazy module assignments: https://www.youtube.com/watch?v=abjnA3fQCWE
+- accidental non-lazy linter: https://www.youtube.com/watch?v=z0YeuOxOffk
 - code samples: https://github.com/anthonywritescode/explains
 
 ## outline
