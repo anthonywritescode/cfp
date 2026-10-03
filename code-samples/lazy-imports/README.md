@@ -1,7 +1,7 @@
 lazy-imports
 ============
 
-[slides]: https://docs.google.com/presentation/d/1HHCxAuYxlOn6GKv3CyvWd_qcCA6pFZ4RpO4JdMMRlo0/edit?usp=sharing
+slides: https://docs.google.com/presentation/d/1HHCxAuYxlOn6GKv3CyvWd_qcCA6pFZ4RpO4JdMMRlo0/edit?usp=sharing
 
 
 ### checkouts
