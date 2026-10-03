@@ -1,3 +1,0 @@
-"""demonstrate lazily-evaluated annotations in 3.14+"""
-
-def f(x: int) -> None: ...
